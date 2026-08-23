@@ -1,2 +1,25 @@
 # Exeter Plumbing
-HVAC services in Ontario.
+
+> Exeter Plumbing is a local HVAC company serving Exeter, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 901-0020  |  Email: contact@exeterplumbing.ca  |  Website: https://exeterplumbing.ca
+
+## Key pages
+
+- [Home](https://exeterplumbing.ca/): Exeter Plumbing homepage with service overview and FAQ
+- [About](https://exeterplumbing.ca/about/): About the company and service area
+- [Contact](https://exeterplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://exeterplumbing.ca/services/water-heaters/): Water Heaters in Exeter, Ontario
+- [Drain Cleaning](https://exeterplumbing.ca/services/drain-cleaning/): Drain Cleaning in Exeter, Ontario
+- [Repiping](https://exeterplumbing.ca/services/repiping/): Repiping in Exeter, Ontario
+- [Fixtures & Toilets](https://exeterplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Exeter, Ontario
+- [Leak Detection & Repair](https://exeterplumbing.ca/services/leak-detection/): Leak Detection & Repair in Exeter, Ontario
+- [Sump Pumps & Backwater](https://exeterplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Exeter, Ontario
+- [Water Softeners & Filtration](https://exeterplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Exeter, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Exeter are answered on the homepage.
